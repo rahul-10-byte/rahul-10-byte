@@ -1,12 +1,16 @@
 
-<!-- <div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+<div align="center">
+<img width="100%" height = "270px" src="https://github.com/rahul-10-byte/rahul-10-byte/blob/main/banner.png" alt="cover" />
 </div>
- -->
+
 <!-- <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1> -->
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rahul-10-byte.rahul-10-byte)
+[![General badge](https://img.shields.io/badge/Gmail-red.svg)](mailto:kalyankarrahul500@gmail.com)
+[![General badge](https://img.shields.io/badge/Linkedin-blue.svg)](https://www.linkedin.com/in/rahul-kalyankar-05084a160/)
+[![General badge](https://img.shields.io/badge/Dev.to-black.svg)](https://DEV.to/rahul_kalyankar)
+
 
 </p>
 <!-- <div size='20px'> Hi! My name is Rahul Kalyankar. Thank You for taking the time to view my GitHub Profile :smile: 
