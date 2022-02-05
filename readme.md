@@ -73,6 +73,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=rahul-10-byte&count_private=true&show_icons=true&theme=vision-friendly-dark" />
 </a>
+
+[![Rahul's github activity graph](https://activity-graph.herokuapp.com/graph?username=rahul-10-byte&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
