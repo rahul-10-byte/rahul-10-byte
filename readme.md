@@ -53,7 +53,7 @@
 <a href = 'https://www.twitter.com/rahulkalyankar_'> <img width = '45px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> &emsp;
 <a href = 'https://www.instagram.com/rahul_kalyankar_10/'> <img width = '45px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> &emsp;
 <a href = 'https://www.github.com/rahul-10-byte'> <img width = '45px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> &emsp;
-<a href = 'rahulkalyankar.cf'> <img width = '45px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>&emsp; 
+<a href = 'https://rahulkalyankar.cf'> <img width = '45px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>&emsp; 
 
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
